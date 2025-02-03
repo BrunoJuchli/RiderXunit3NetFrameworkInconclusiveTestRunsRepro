@@ -1,0 +1,1 @@
+# Repro for Issue with Running Xunit V3 Tests in Rider
